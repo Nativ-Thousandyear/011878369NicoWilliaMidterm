@@ -1,5 +1,3 @@
-# 011878369NicoWilliaMidterm
-Washington State University
 # MidtermZombiesVsPlants
 
 assignment pdf is in a folder with corresponding name:(has diagrams and midterm questions and answers)
